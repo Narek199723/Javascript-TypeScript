@@ -101,4 +101,3 @@ console.log(combinedAges);
 const combinedNames = combine("Max", "Ann", "as-text");
 console.log(combinedNames);
 
-// !  Function return Types & void
